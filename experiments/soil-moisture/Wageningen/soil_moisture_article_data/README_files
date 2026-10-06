@@ -1,0 +1,9 @@
+Files:
+
+RAAM_cov.zip - zipped files containing 1) .csv files of measurements at each station(15 stations)and a 2) README file for the desciption of the .csv files.
+
+BOFEK2012.csv - soil hydraulic parameters used for process based modeling per station location
+
+Coords_Raam.csv - coordinates in degrees for each station
+
+Crop_types_Raam.csv - crops grown per station per year from 2016 to 2018

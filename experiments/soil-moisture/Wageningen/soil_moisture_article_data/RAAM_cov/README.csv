@@ -1,0 +1,33 @@
+Contents of .csv files:,,
+,,
+,,
+Column name,Description,Data source
+date,YYYY-MM-DD,
+VWC5,Volumetric soil moisture at 5cm depth,In situ
+VWC_40zone,Zone-weighted depth averaged root zone soil moisture up to 40 cm depth,In situ
+EV24,Daily Potential Evapotranspiration in millimeters,KNMI
+FG,Daily wind speed in Km/Day,KNMI
+Q,Daily Potential Evapotranspiration,KNMI
+rd,Daily rainfall in millimeter,KNMI
+SQ,Number of daily sun hours in Hours,KNMI
+TN,Min. Daily Temperature in degree Celsius,KNMI
+TX,Max. Daily Temperature in degree Celsius,KNMI
+UG,Relative Humidity in %,KNMI
+LAI,Leaf Area Index,MODIS
+Crop,Crop type at each station,in situ
+BOFEK,BOEFK2012 codes for soil hydrophysical groups,BOFEK2012
+VWC5_lag,1-day lag VWC5,in situ
+VWC5_lag3,3-day lag of VWC5,in situ
+VWC5_lag40,40-day lag of VWC5,in situ
+EV24_lag,1-day lag meteorological variables,KNMI
+FG_lag,,KNMI
+Q_lag,,KNMI
+rd_lag,,KNMI
+SQ_lag,,KNMI
+TN_lag,,KNMI
+TX_lag,,KNMI
+UG_lag,,KNMI
+LAI_lag,,KNMI
+rd_3day,3-day cumulative rainfall ,KNMI
+rd_3day_lag,Lagged 3-day cumulative rainfall,KNMI
+DOY,Day of Year,

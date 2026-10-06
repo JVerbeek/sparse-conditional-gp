@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:adms="http://www.w3.org/ns/adms#"
+   xmlns:dcat="http://www.w3.org/ns/dcat#"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:donl="https://data.overheid.nl/dcat.rdf#"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:v="http://www.w3.org/2006/vcard/"
+>
+  <rdf:Description rdf:about="https://data.overheid.nl/dataset/c54bbfed-c77c-4bcb-b885-6c9522a98d62">
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dct:description xml:lang="nl">Dit bestand geeft de ruimtelijke verbreiding van bodemfysische eenheden. Dit zijn gebieden met een overeenkomstige bodemobouw en een overeenkomstige hydrologisch gedrag. In een aparte excel-tabel is de profielopbouw van de eenheden opgenomen.</dct:description>
+    <foaf:primaryTopic rdf:resource="https://data.overheid.nl/dataset/5513-bofek2012-versie-2"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2022-04-06T09:04:45.545513</dct:modified>
+    <adms:status xml:lang="nl">:updated</adms:status>
+    <dct:title xml:lang="nl">5513-bofek2012-versie-2</dct:title>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/c54bbfed-c77c-4bcb-b885-6c9522a98d62.rdf"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/5513-bofek2012-versie-2.rdf"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#CatalogRecord"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2020-04-02T16:44:41.406664</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.overheid.nl/dataset/5513-bofek2012-versie-2">
+    <adms:identifier rdf:resource="https://data.overheid.nl/dataset/5513-bofek2012-versie-2"/>
+    <dct:title xml:lang="nl">BOFEK2012 versie 2</dct:title>
+    <donl:status rdf:resource="http://data.overheid.nl/status/beschikbaar"/>
+    <adms:identifier rdf:resource="https://data.overheid.nl/dataset/c54bbfed-c77c-4bcb-b885-6c9522a98d62"/>
+    <donl:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/5513-bofek2012-versie-2"/>
+    <donl:authority rdf:resource="http://data.overheid.nl/organisatie/wageningen-ur"/>
+    <dcat:theme rdf:resource="http://standaarden.overheid.nl/owms/terms/Bodem"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2016-10-25T00:00:00</dct:issued>
+    <donl:metadataLanguage rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/c54bbfed-c77c-4bcb-b885-6c9522a98d62"/>
+    <adms:identifier rdf:resource="https://data.overheid.nl/data/dataset/c54bbfed-c77c-4bcb-b885-6c9522a98d62"/>
+    <donl:publisher rdf:resource="http://data.overheid.nl/organisatie/wageningen-ur"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Dataset"/>
+    <dcat:contactPoint rdf:nodeID="dataset.5513-bofek2012-versie-2.contactPoint"/>
+    <dcat:distribution rdf:nodeID="dataset.5513-bofek2012-versie-2.distribution.1"/>
+    <dct:description xml:lang="nl">Dit bestand geeft de ruimtelijke verbreiding van bodemfysische eenheden. Dit zijn gebieden met een overeenkomstige bodemobouw en een overeenkomstige hydrologisch gedrag. In een aparte excel-tabel is de profielopbouw van de eenheden opgenomen.</dct:description>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <adms:identifier rdf:resource="https://data.overheid.nl/data/dataset/5513-bofek2012-versie-2"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2016-10-25T00:00:00</dct:modified>
+    <dcat:landingPage rdf:resource="http://edepot.wur.nl/247678"/>
+    <donl:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <dcat:keyword xml:lang="nl">bodem</dcat:keyword>
+    <dcat:theme rdf:resource="http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"/>
+    <donl:identifier rdf:resource="https://nationaalgeoregister.nl/geonetwork?uuid=7e740af2-904f-4c88-b805-157268a28e86"/>
+    <donl:sourceCatalog rdf:resource="https://nationaalgeoregister.nl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Format"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.iana.org/assignments/media-types/text/html">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Mediatype"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.5513-bofek2012-versie-2.distribution.1">
+    <dcat:accessURL rdf:resource="http://www.wur.nl/nl/show/Bodemfysische-Eenhedenkaart-BOFEK2012.htm"/>
+    <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/html"/>
+    <dct:title xml:lang="nl">Bofek2012</dct:title>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.nl"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/5513-bofek2012-versie-2.rdf"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/dataset/c54bbfed-c77c-4bcb-b885-6c9522a98d62.rdf"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2021-10-19T16:18:39.845247</dct:issued>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/NLD"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Distribution"/>
+    <dct:description xml:lang="nl">website</dct:description>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu">
+    <rdf:type rdf:resource="http://standaarden.overheid.nl/owms/terms/Thema"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.overheid.nl/status/beschikbaar">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#DatasetStatus"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.overheid.nl/organisatie/wageningen-ur">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Organization"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="dataset.5513-bofek2012-versie-2.contactPoint">
+    <v:web rdf:resource="http://www.wur.nl/nl/Expertises-Dienstverlening/Onderzoeksinstituten/Environmental-Research.htm"/>
+    <v:email rdf:resource="mailto:henk.wosten@wur.nl"/>
+    <v:tel xml:lang="nl">0317 486478</v:tel>
+    <v:fn xml:lang="nl">Wageningen Environmental Research</v:fn>
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/Kind"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#OpenbaarheidsNiveau"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/language/NLD">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#Language"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/deed.nl">
+    <rdf:type rdf:resource="https://data.overheid.nl/dcat.rdf#License"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://standaarden.overheid.nl/owms/terms/Bodem">
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+    <rdf:type rdf:resource="http://standaarden.overheid.nl/owms/terms/Thema"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://nationaalgeoregister.nl">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <rdfs:isDefinedBy rdf:resource="https://data.overheid.nl/vocabularies.rdf"/>
+  </rdf:Description>
+</rdf:RDF>
