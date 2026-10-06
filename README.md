@@ -10,7 +10,7 @@ conda activate myname
 We supply an additional file for MacOS (`requirements-macos-arm64.yml`), which is required for Tensorflow to work.
 
 ### Anonymous Github hosting
-We also host an anonymous version of this repository at https://anonymous.4open.science/r/sparse-conditional-gp-E743/README.md, which does include the soil moisture data (as we could not fit it into the 20MB supplementary file limit). The full repository can be downloaded as a `.zip` archiver from that page. The repository is available until October 6, 2027. 
+We also host an anonymous version of this repository at https://anonymous.4open.science/r/sparse-conditional-gp-E743/README.md, which does include the soil moisture data (as we could not fit it into the 20MB supplementary file limit). The full repository can be downloaded as a `.zip` archive from that page. The repository is available until October 6, 2027. 
 
 ## Usage
 A relatively minimal working example of the sparse conditional Gaussian process with 20 inducing variables is the following cell:
