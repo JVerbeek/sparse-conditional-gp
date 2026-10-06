@@ -10,7 +10,7 @@ conda activate myname
 We supply an additional file for MacOS (`requirements-macos-arm64.yml`), which is required for Tensorflow to work.
 
 ### Soil moisture data
-The soil moisture data is a relatively large file, which for the purposes of keeping this supplementary material under 20MB. The Raam dataset can be downloaded from [this page](https://data.4tu.nl/articles/_/12721415/2). The soil moisture data should be placed in `experiments/soil-moisture/Wageningen`.
+The soil moisture data is relatively large, and thus could not be uploaded in this supplementary material. Therefore, we also host an anonymous version of this repository at https://anonymous.4open.science/r/sparse-conditional-gp-E743/README.md, which does include the soil moisture data. The full repository can be downloaded as a `.zip` archiver from that page. The repository is availableyy until October 6, 2027. 
 
 ## Usage
 A relatively minimal working example of the sparse conditional Gaussian process with 20 inducing variables is the following cell:
